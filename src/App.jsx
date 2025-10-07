@@ -6,7 +6,7 @@ function App() {
     <>
     <Router>
       <Routes>
-        <Route path='/' element={<My_Book/>}/>
+        <Route path='/Flip_Book_PDF' element={<My_Book/>}/>
       </Routes>
     </Router>
     </>
